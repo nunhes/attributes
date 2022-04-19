@@ -1,0 +1,1 @@
+const t={key:"v-4e429576",path:"/installation/compatibility.html",title:"Compatibility",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643055454e3,contributors:[{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:2}]},filePathRelative:"installation/compatibility.md"};export{t as data};

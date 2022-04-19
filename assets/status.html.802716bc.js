@@ -1,0 +1,1 @@
+const t={key:"v-0a4580e4",path:"/status.html",title:"Completion status",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650353304e3,contributors:[{name:"GitHub Action",email:"action@github.com",commits:12},{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:1}]},filePathRelative:"status.md"};export{t as data};

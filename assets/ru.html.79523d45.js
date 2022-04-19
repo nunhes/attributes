@@ -1,0 +1,1 @@
+const t={key:"v-9f056b00",path:"/statuses/ru.html",title:"ru",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643043516e3,contributors:[{name:"Andrey Helldar",email:"helldar@ai-rus.com",commits:1}]},filePathRelative:"statuses/ru.md"};export{t as data};
